@@ -1,0 +1,1 @@
+spark example for processing message input from kafka
